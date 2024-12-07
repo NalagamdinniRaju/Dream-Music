@@ -6,7 +6,7 @@ export const songs = [
     album: "Thriller 25 Super Deluxe Edition",
     duration: "4:53",
     plays: "1,040,811,084",
-    coverUrl: "./public/music_playing_img.png",
+    coverUrl: "https://res.cloudinary.com/dwiq4s5ut/image/upload/v1733595619/music_playing_img_tfm3ur.png",
     audioUrl: "https://example.com/billiejean.mp3"
   },
   {
@@ -16,7 +16,7 @@ export const songs = [
     album: "Thriller 25 Super Deluxe Edition",
     duration: "4:18",
     plays: "643,786,045",
-    coverUrl: "./public/music_playing_img.png",
+     coverUrl: "https://res.cloudinary.com/dwiq4s5ut/image/upload/v1733595619/music_playing_img_tfm3ur.png",
     audioUrl: "https://example.com/beatit.mp3"
   },
   {
@@ -26,7 +26,7 @@ export const songs = [
     album: "Thriller 25 Super Deluxe Edition",
     duration: "4:17",
     plays: "407,234,004",
-    coverUrl: "./public/music_playing_img.png",
+       coverUrl: "https://res.cloudinary.com/dwiq4s5ut/image/upload/v1733595619/music_playing_img_tfm3ur.png",
     audioUrl: "https://example.com/smoothcriminal.mp3"
   },
   {
@@ -36,7 +36,7 @@ export const songs = [
     album: "Bad 25th Anniversary",
     duration: "6:05",
     plays: "316,391,952",
-    coverUrl: "./public/music_playing_img.png",
+       coverUrl: "https://res.cloudinary.com/dwiq4s5ut/image/upload/v1733595619/music_playing_img_tfm3ur.png",
     audioUrl: "https://example.com/dontstop.mp3"
   },
   {
@@ -46,7 +46,7 @@ export const songs = [
     album: "Off The Wall",
     duration: "3:40",
     plays: "268,187,218",
-    coverUrl: "./public/music_playing_img.png",
+       coverUrl: "https://res.cloudinary.com/dwiq4s5ut/image/upload/v1733595619/music_playing_img_tfm3ur.png",
     audioUrl: "https://example.com/rockwithyou.mp3"
   }
 ];
